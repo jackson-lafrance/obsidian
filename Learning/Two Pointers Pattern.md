@@ -2,8 +2,6 @@
 
 Tag: [[linear]] [[leetcode]] [[coding]]
 
-# Two Pointers Pattern
-
 Used to reduce time complexity of going through a list linked list or string
 Same direction
 - Ideal when you are doing 1 pass

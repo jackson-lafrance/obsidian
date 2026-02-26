@@ -2,8 +2,6 @@
 
 Tag: [[linear]] [[leetcode]] [[coding]]
 
-# Binary Search
-
 Looks at the middle element and checks if its the target
 If smaller than the target, repeat process on the right half
 if larger, repeat on the left half

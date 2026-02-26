@@ -2,7 +2,6 @@
 
 Tag: [[bfs]] [[dfs]] [[leetcode]] [[coding]]
 
-# Trees and Graphs
 A tree is just a graph with no cycles
 A graph needs a visited set to track where you've been
 
