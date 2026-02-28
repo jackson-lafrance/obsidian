@@ -1,5 +1,3 @@
-[[python]] [[dfs]]
-
 ```python
 def fn(graph):
     stack = [START_NODE]

@@ -1,5 +1,3 @@
-[[python]]
-
 ```python
 def fn(arr, target):
     left = 0

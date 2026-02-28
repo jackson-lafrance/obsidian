@@ -1,5 +1,3 @@
-[[python]] [[two_pointers]]
-
 ```python
 def fn(head):
     slow = head

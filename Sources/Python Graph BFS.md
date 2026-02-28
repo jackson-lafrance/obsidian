@@ -1,5 +1,3 @@
-[[python]] [[bfs]]
-
 ```python
 from collections import deque
 
