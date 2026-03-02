@@ -3,7 +3,7 @@ date: 2026-02-28
 tags:
 ---
 # Biochemistry
-
+[[Midterm Study Guide]]
 ## Cells
 - [[Cell structure]] — Plasma membrane, cytoplasm, organelle types
 - [[Organelles]] — ER, Golgi, ribosomes, lysosomes, cytoskeleton
