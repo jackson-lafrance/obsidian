@@ -1,7 +1,6 @@
 ---
 date: 2026-02-26
 tags:
-  - webdev
   - frontend
 ---
 ## The Basics

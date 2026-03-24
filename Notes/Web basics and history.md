@@ -1,7 +1,8 @@
 ---
 date: 2026-02-26
 tags:
-  - webdev
+  - frontend
+  - backend
 ---
 ## Internet history
 - First web pages were made using HTML, mostly just plain text and static

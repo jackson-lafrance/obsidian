@@ -1,6 +1,8 @@
 ---
 date: 2026-03-12
-tags: []
+tags:
+  - backend
+  - javascript
 ---
 ## Intro
 Express is a minimal and flexible Node.js framework that simplifies servers by handling routing, requests, and responses with less code and better strucutre.
